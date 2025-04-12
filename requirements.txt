@@ -1,6 +1,0 @@
-streamlit
-pandas
-matplotlib
-fpdf
-scikit-learn
-python-dotenv
