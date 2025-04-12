@@ -1,4 +1,7 @@
 # Military MOC AI Dashboard
+import streamlit as st
+st.info("✅ App has started running...")
+
 
 📊 An intelligent dashboard built with Streamlit to manage and track Military MOC (Modules of Competency) performance, training hours, and promotion readiness.
 
